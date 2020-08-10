@@ -1,0 +1,13 @@
+page:
+  signin:
+    form:
+      username:
+        label: Username
+        placeholder: Please input your username
+      password:
+        label: Password
+        placeholder: Please input your password
+      signin:
+        label: Sign In
+      signup:
+        label: Sign up

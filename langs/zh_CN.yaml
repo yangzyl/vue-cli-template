@@ -1,0 +1,40 @@
+page:
+  signin:
+    form:
+      username:
+        label: 用户名
+        placeholder: 请输入用户名
+      password:
+        label: 密码
+        placeholder: 请输入密码
+      signin:
+        label: 登录
+      signup:
+        label: 注册新账号
+  workbench:
+    menu:
+      overview:
+        label: 我的项目
+        list:
+          owned: 我创建的
+          joined: 我参与的
+      system:
+        label: 系统管理
+        source: 数据源
+        widget: 控件
+      user: 
+        label: 用户
+        profile: 我的账户
+        signout: 退出
+    overview:
+      label: 我的项目
+      list:
+        owned: 我创建的
+        joined: 我参与的
+    project:
+      label: 项目
+      portal: Dashboard管理
+      widget: 组件
+      view: 数据视图
+      source: 数据源
+      settings: 设置
