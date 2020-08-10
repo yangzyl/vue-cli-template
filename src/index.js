@@ -1,16 +1,12 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap-vue/dist/bootstrap-vue.min.css';
 
 import Vue from 'vue';
 import VueRouter from  'vue-router';
 import VueI18n from 'vue-i18n';
-import BootstrapVue from 'bootstrap-vue';
 import Vuex from 'vuex';
 import Davinci from './plugins/davinci';
 
 Vue.use(VueRouter);
 Vue.use(Vuex);
-Vue.use(BootstrapVue);
 Vue.use(Davinci);
 Vue.use(VueI18n);
 
